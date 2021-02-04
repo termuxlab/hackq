@@ -2,6 +2,6 @@ echo " - -  _HackQ -_ - -"
 echo "   _  - Hacker Quest -"
 echo ""
 echo "Установка.../"
-pkg install python python3 pip3 php
+apt-get install python python3 pip3 php
 chmod +x ./start
 chmod +x ./up_lvl
